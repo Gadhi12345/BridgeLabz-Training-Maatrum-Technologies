@@ -1,0 +1,14 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\bin\Debug\net8.0\Arrays-Practice.exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\bin\Debug\net8.0\Arrays-Practice.deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\bin\Debug\net8.0\Arrays-Practice.runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\bin\Debug\net8.0\Arrays-Practice.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\bin\Debug\net8.0\Arrays-Practice.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\obj\Debug\net8.0\Arrays-Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\obj\Debug\net8.0\Arrays-Practice.AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\obj\Debug\net8.0\Arrays-Practice.AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\obj\Debug\net8.0\Arrays-Practice.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\obj\Debug\net8.0\Arrays-Practice.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\obj\Debug\net8.0\refint\Arrays-Practice.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\obj\Debug\net8.0\Arrays-Practice.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\obj\Debug\net8.0\Arrays-Practice.genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Arrays-Practice\Arrays-Practice\obj\Debug\net8.0\ref\Arrays-Practice.dll
