@@ -1,0 +1,14 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\bin\Debug\net8.0\OOPS-Problem2-Advanced.exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\bin\Debug\net8.0\OOPS-Problem2-Advanced.deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\bin\Debug\net8.0\OOPS-Problem2-Advanced.runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\bin\Debug\net8.0\OOPS-Problem2-Advanced.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\bin\Debug\net8.0\OOPS-Problem2-Advanced.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\obj\Debug\net8.0\OOPS-Problem2-Advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\obj\Debug\net8.0\OOPS-Problem2-Advanced.AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\obj\Debug\net8.0\OOPS-Problem2-Advanced.AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\obj\Debug\net8.0\OOPS-Problem2-Advanced.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\obj\Debug\net8.0\OOPS-Problem2-Advanced.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\obj\Debug\net8.0\refint\OOPS-Problem2-Advanced.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\obj\Debug\net8.0\OOPS-Problem2-Advanced.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\obj\Debug\net8.0\OOPS-Problem2-Advanced.genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem2-Advanced\OOPS-Problem2-Advanced\obj\Debug\net8.0\ref\OOPS-Problem2-Advanced.dll
