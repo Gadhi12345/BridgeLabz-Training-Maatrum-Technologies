@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\OOPS-Problem2-Intermediate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4B86CD-377A-47A6-9446-6249364E5377}|OOPS-Problem2-Intermediate\\OOPS-Problem2-Intermediate.csproj|d:\\bridgelabz_maatrum_technology\\oops-problem2-intermediate\\oops-problem2-intermediate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4B86CD-377A-47A6-9446-6249364E5377}|OOPS-Problem2-Intermediate\\OOPS-Problem2-Intermediate.csproj|solutionrelative:oops-problem2-intermediate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\OOPS-Problem2-Intermediate\\OOPS-Problem2-Intermediate\\Program.cs",
+              "RelativeDocumentMoniker": "OOPS-Problem2-Intermediate\\Program.cs",
+              "ToolTip": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\OOPS-Problem2-Intermediate\\OOPS-Problem2-Intermediate\\Program.cs*",
+              "RelativeToolTip": "OOPS-Problem2-Intermediate\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T07:19:48.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
