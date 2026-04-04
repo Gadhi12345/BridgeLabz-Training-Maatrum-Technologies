@@ -1,0 +1,14 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\bin\Debug\net8.0\OOPS-Problem1-Intermediate.exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\bin\Debug\net8.0\OOPS-Problem1-Intermediate.deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\bin\Debug\net8.0\OOPS-Problem1-Intermediate.runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\bin\Debug\net8.0\OOPS-Problem1-Intermediate.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\bin\Debug\net8.0\OOPS-Problem1-Intermediate.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\obj\Debug\net8.0\OOPS-Problem1-Intermediate.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\obj\Debug\net8.0\OOPS-Problem1-Intermediate.AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\obj\Debug\net8.0\OOPS-Problem1-Intermediate.AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\obj\Debug\net8.0\OOPS-Problem1-Intermediate.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\obj\Debug\net8.0\OOPS-Problem1-Intermediate.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\obj\Debug\net8.0\refint\OOPS-Problem1-Intermediate.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\obj\Debug\net8.0\OOPS-Problem1-Intermediate.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\obj\Debug\net8.0\OOPS-Problem1-Intermediate.genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\OOPS-Problem1-Intermediate\OOPS-Problem1-Intermediate\obj\Debug\net8.0\ref\OOPS-Problem1-Intermediate.dll
