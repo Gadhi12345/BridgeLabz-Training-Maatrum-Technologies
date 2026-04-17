@@ -1,0 +1,15 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\bin\Debug\net8.0\StackandQueue.exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\bin\Debug\net8.0\StackandQueue.deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\bin\Debug\net8.0\StackandQueue.runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\bin\Debug\net8.0\StackandQueue.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\bin\Debug\net8.0\StackandQueue.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.sourcelink.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\obj\Debug\net8.0\refint\StackandQueue.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\StackandQueue\StackandQueue\obj\Debug\net8.0\ref\StackandQueue.dll

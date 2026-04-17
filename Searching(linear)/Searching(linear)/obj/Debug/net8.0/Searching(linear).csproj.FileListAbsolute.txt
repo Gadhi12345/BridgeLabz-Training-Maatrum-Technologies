@@ -1,0 +1,15 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\obj\Debug\net8.0\Searching(linear).GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\obj\Debug\net8.0\Searching(linear).AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\obj\Debug\net8.0\Searching(linear).AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\obj\Debug\net8.0\Searching(linear).csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\obj\Debug\net8.0\Searching(linear).sourcelink.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\bin\Debug\net8.0\Searching(linear).exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\bin\Debug\net8.0\Searching(linear).deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\bin\Debug\net8.0\Searching(linear).runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\bin\Debug\net8.0\Searching(linear).dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\bin\Debug\net8.0\Searching(linear).pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\obj\Debug\net8.0\Searching(linear).dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\obj\Debug\net8.0\refint\Searching(linear).dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\obj\Debug\net8.0\Searching(linear).pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\obj\Debug\net8.0\Searching(linear).genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Searching(linear)\Searching(linear)\obj\Debug\net8.0\ref\Searching(linear).dll
