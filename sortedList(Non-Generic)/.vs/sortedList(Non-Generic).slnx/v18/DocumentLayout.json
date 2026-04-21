@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\sortedList(Non-Generic)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3C68FA-DB2E-4702-9A10-8389D070383B}|sortedList(Non-Generic)\\sortedList(Non-Generic).csproj|d:\\bridgelabz_maatrum_technology\\sortedlist(non-generic)\\sortedlist(non-generic)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3C68FA-DB2E-4702-9A10-8389D070383B}|sortedList(Non-Generic)\\sortedList(Non-Generic).csproj|solutionrelative:sortedlist(non-generic)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\sortedList(Non-Generic)\\sortedList(Non-Generic)\\Program.cs",
+              "RelativeDocumentMoniker": "sortedList(Non-Generic)\\Program.cs",
+              "ToolTip": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\sortedList(Non-Generic)\\sortedList(Non-Generic)\\Program.cs",
+              "RelativeToolTip": "sortedList(Non-Generic)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:11:43.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

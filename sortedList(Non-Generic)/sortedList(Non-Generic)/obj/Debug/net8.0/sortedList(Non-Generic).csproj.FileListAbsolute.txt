@@ -1,0 +1,15 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\bin\Debug\net8.0\sortedList(Non-Generic).exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\bin\Debug\net8.0\sortedList(Non-Generic).deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\bin\Debug\net8.0\sortedList(Non-Generic).runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\bin\Debug\net8.0\sortedList(Non-Generic).dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\bin\Debug\net8.0\sortedList(Non-Generic).pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\obj\Debug\net8.0\sortedList(Non-Generic).GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\obj\Debug\net8.0\sortedList(Non-Generic).AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\obj\Debug\net8.0\sortedList(Non-Generic).AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\obj\Debug\net8.0\sortedList(Non-Generic).csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\obj\Debug\net8.0\sortedList(Non-Generic).sourcelink.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\obj\Debug\net8.0\sortedList(Non-Generic).dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\obj\Debug\net8.0\refint\sortedList(Non-Generic).dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\obj\Debug\net8.0\sortedList(Non-Generic).pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\obj\Debug\net8.0\sortedList(Non-Generic).genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\sortedList(Non-Generic)\sortedList(Non-Generic)\obj\Debug\net8.0\ref\sortedList(Non-Generic).dll
