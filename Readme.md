@@ -3,26 +3,253 @@
 This README contains my daily status updates during the BridgeLabz training period.
 
 > Note: I have organized my work into separate branches based on concepts, implementations, and review-wise progress.
-> Please explore the branches of this repository to review my work in detail.
-
----
-
-# Training Timeline
-
-## Review 1 – 25.03.2026
-
-Topics Covered:
-
-* Git & GitHub
-* Linux Basics
-* C# Basics
-* OOPS Concepts
+> Please explore the repository branches to review my work in detail.
 
 ---
 
 # Daily Status Updates
 
+## 19.03.2026
+
+---
+
+### What I Have Done
+
+* Joined BridgeLabz .NET Full Stack Training Program
+* Completed onboarding process
+* Set up Visual Studio, Git, GitHub, and Git Bash
+* Started learning C# fundamentals
+
+### What I Will Do Next
+
+* Learn variables and data types
+* Practice operators and conditional statements
+
+### Issues Faced
+
+* None
+
+---
+
+## 20.03.2026
+
+---
+
+### What I Have Done
+
+* Learned Variables and Literals in C#
+* Practiced Primitive Data Types
+* Worked with input and output operations
+* Practiced arithmetic and relational operators
+
+### What I Will Do Next
+
+* Learn conditional statements
+* Practice loops and switch statements
+
+### Issues Faced
+
+* None
+
+---
+
+## 22.03.2026
+
+---
+
+### What I Have Done
+
+* Learned if-else conditions and switch statements
+* Practiced ternary operator
+* Started loops in C#
+* Practiced for loop and while loop programs
+
+### What I Will Do Next
+
+* Continue loop concepts
+* Practice do-while and foreach loops
+
+### Issues Faced
+
+* None
+
+---
+
+## 23.03.2026
+
+---
+
+### What I Have Done
+
+* Practiced loops in C#
+* Implemented for, while, do-while, and foreach loops
+* Solved pattern programs
+* Learned break and continue statements
+
+### What I Will Do Next
+
+* Start Arrays concepts
+* Practice array programs
+
+### Issues Faced
+
+* None
+
+---
+
+## 24.03.2026
+
+---
+
+### What I Have Done
+
+* Started Arrays in C#
+* Learned array declaration and initialization
+* Practiced traversing arrays using loops
+* Solved basic array problems
+* Revised Git, GitHub, and Linux basics
+
+### What I Will Do Next
+
+* Prepare for Review 1
+* Revise Arrays and programming fundamentals
+
+### Issues Faced
+
+* None
+
+---
+
+## 25.03.2026
+
+---
+
+### What I Have Done
+
+* Completed Review 1
+* Started Object-Oriented Programming concepts
+* Learned Classes and Objects
+* Practiced Constructors and Access Modifiers
+
+### What I Will Do Next
+
+* Learn Encapsulation and Inheritance
+
+### Issues Faced
+
+* None
+
+---
+
+## 27.03.2026
+
+---
+
+### What I Have Done
+
+* Learned Encapsulation and Inheritance
+* Implemented inheritance examples
+* Practiced method overriding basics
+
+### What I Will Do Next
+
+* Learn Polymorphism and Abstraction
+
+### Issues Faced
+
+* None
+
+---
+
+## 29.03.2026
+
+---
+
+### What I Have Done
+
+* Learned Polymorphism concepts
+* Started Abstraction and Interfaces
+* Implemented interface examples
+
+### What I Will Do Next
+
+* Revise complete OOP concepts
+
+### Issues Faced
+
+* None
+
+---
+
+## 31.03.2026
+
+---
+
+### What I Have Done
+
+* Revised OOP concepts in C#
+* Practiced:
+
+  * Encapsulation
+  * Inheritance
+  * Interfaces
+* Worked on implementation examples
+
+### What I Will Do Next
+
+* Continue OOP practice
+* Prepare for Review 2
+
+### Issues Faced
+
+* None
+
+---
+
+## 02.04.2026
+
+---
+
+### What I Have Done
+
+* Practiced real-time OOP implementation programs
+* Implemented Employement Management System
+* Revised Interfaces and Abstract Classes
+
+### What I Will Do Next
+
+* Revise all OOP concepts thoroughly
+
+### Issues Faced
+
+* None
+
+---
+
+## 04.04.2026
+
+---
+
+### What I Have Done
+
+* Revised complete OOP concepts
+* Practiced implementation-based programs
+* Strengthened understanding of Object-Oriented Design concepts
+
+### What I Will Do Next
+
+* Prepare for Review 2
+* Revise Employee Wage Computation concepts
+
+### Issues Faced
+
+* None
+
+---
+
 ## 06.04.2026
+
+---
 
 ### What I Have Done
 
@@ -42,6 +269,8 @@ Topics Covered:
 ---
 
 ## 07.04.2026
+
+---
 
 ### What I Have Done
 
@@ -70,9 +299,12 @@ https://github.com/Gadhi12345/BridgeLabz-Training-Maatrum-Technologies/tree/C%23
 
 ## 09.04.2026
 
+---
+
 ### What I Have Done
 
 * Completed problem-solving on Arrays and Strings in C#
+* Uploaded Employee Wage Computation project to GitHub
 * Started Linked List concepts
 * Learned Linked List basic structure and operations
 
@@ -90,13 +322,15 @@ https://github.com/Gadhi12345/BridgeLabz-Training-Maatrum-Technologies/tree/C%23
 
 * None
 
-### Employement-Wage
+### GitHub
 
 https://github.com/Gadhi12345/Employement_wage_BL
 
 ---
 
 ## 10.04.2026
+
+---
 
 ### What I Have Done
 
@@ -120,6 +354,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 ## 12.04.2026
 
+---
+
 ### What I Have Done
 
 * Completed Doubly Linked List operations
@@ -139,6 +375,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 ## 13.04.2026
 
+---
+
 ### What I Have Done
 
 * Completed all Linked List variations
@@ -157,6 +395,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 ---
 
 ## 15.04.2026
+
+---
 
 ### What I Have Done
 
@@ -185,6 +425,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 ## 16.04.2026
 
+---
+
 ### What I Have Done
 
 * Revised all concepts for Review-3
@@ -201,6 +443,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 ---
 
 ## 17.04.2026
+
+---
 
 ### What I Have Done
 
@@ -220,6 +464,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 ---
 
 ## 18.04.2026
+
+---
 
 ### What I Have Done
 
@@ -244,6 +490,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 ## 20.04.2026
 
+---
+
 ### What I Have Done
 
 * Practiced Non-Generic Collections
@@ -266,6 +514,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 ---
 
 ## 21.04.2026
+
+---
 
 ### What I Have Done
 
@@ -291,6 +541,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 ## 22.04.2026
 
+---
+
 ### What I Have Done
 
 * Completed Exception Handling in C#
@@ -313,6 +565,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 ## 24.04.2026
 
+---
+
 ### What I Have Done
 
 * Completed Collections and Exception Handling
@@ -331,6 +585,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 ---
 
 ## 25.04.2026
+
+---
 
 ### What I Have Done
 
@@ -351,6 +607,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 ## 27.04.2026
 
+---
+
 ### What I Have Done
 
 * Completed File I/O operations with CSV and JSON
@@ -368,6 +626,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 ---
 
 ## 29.04.2026
+
+---
 
 ### What I Have Done
 
@@ -387,6 +647,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 ---
 
 ## 30.04.2026
+
+---
 
 ### What I Have Done
 
@@ -408,6 +670,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 ---
 
 ## 02.05.2026
+
+---
 
 ### What I Have Done
 
@@ -434,6 +698,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 ## 04.05.2026
 
+---
+
 ### What I Have Done
 
 * Learned Attributes and Reflection
@@ -458,6 +724,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 ## 05.05.2026
 
+---
+
 ### What I Have Done
 
 * Revised Attributes and Reflection
@@ -475,6 +743,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 ---
 
 ## 06.05.2026
+
+---
 
 ### What I Have Done
 
@@ -498,6 +768,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 ## 07.05.2026
 
+---
+
 ### What I Have Done
 
 * Revised MSTest and Reflection
@@ -515,6 +787,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 ---
 
 ## 08.05.2026
+
+---
 
 ### What I Have Done
 
@@ -538,6 +812,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 ---
 
 ## 09.05.2026
+
+---
 
 ### What I Have Done
 
@@ -563,6 +839,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 ## 11.05.2026
 
+---
+
 ### What I Have Done
 
 * Completed SOLID Principles
@@ -587,6 +865,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 ## 12.05.2026
 
+---
+
 ### What I Have Done
 
 * Restarted Design Patterns from scratch
@@ -604,8 +884,8 @@ https://github.com/Gadhi12345/Employement_wage_BL
 
 * Revise Observer Pattern
 * Start LINQ
-* Upload all implementations to GitHub
 
 ### Issues Faced
 
 * None
+
