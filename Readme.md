@@ -392,6 +392,10 @@ This README contains my daily status updates during the BridgeLabz training peri
 
 * None
 
+### Snake and Ladder:
+
+* https://github.com/Gadhi12345/Snake-and-Ladder
+
 ---
 
 ## 17th April, 2026
