@@ -90,6 +90,10 @@ https://github.com/Gadhi12345/BridgeLabz-Training-Maatrum-Technologies/tree/C%23
 
 * None
 
+### Employement-Wage
+
+https://github.com/Gadhi12345/Employement_wage_BL
+
 ---
 
 ## 10.04.2026
