@@ -291,7 +291,7 @@ This README contains my daily status updates during the BridgeLabz training peri
 
 * None
 
-### GitHub:
+### Emplyement Wage:
 
 * https://github.com/Gadhi12345/Employement_wage_BL
 
