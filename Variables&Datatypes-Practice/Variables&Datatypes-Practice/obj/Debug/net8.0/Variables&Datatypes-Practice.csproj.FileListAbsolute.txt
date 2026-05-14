@@ -1,0 +1,14 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\bin\Debug\net8.0\Variables&Datatypes-Practice.exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\bin\Debug\net8.0\Variables&Datatypes-Practice.deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\bin\Debug\net8.0\Variables&Datatypes-Practice.runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\bin\Debug\net8.0\Variables&Datatypes-Practice.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\bin\Debug\net8.0\Variables&Datatypes-Practice.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\obj\Debug\net8.0\Variables&Datatypes-Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\obj\Debug\net8.0\Variables&Datatypes-Practice.AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\obj\Debug\net8.0\Variables&Datatypes-Practice.AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\obj\Debug\net8.0\Variables&Datatypes-Practice.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\obj\Debug\net8.0\Variables&Datatypes-Practice.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\obj\Debug\net8.0\refint\Variables&Datatypes-Practice.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\obj\Debug\net8.0\Variables&Datatypes-Practice.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\obj\Debug\net8.0\Variables&Datatypes-Practice.genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Variables&Datatypes-Practice\Variables&Datatypes-Practice\obj\Debug\net8.0\ref\Variables&Datatypes-Practice.dll

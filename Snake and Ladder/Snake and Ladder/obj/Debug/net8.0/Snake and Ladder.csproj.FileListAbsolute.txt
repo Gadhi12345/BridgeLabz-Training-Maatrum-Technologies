@@ -1,0 +1,15 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\bin\Debug\net8.0\Snake and Ladder.exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\bin\Debug\net8.0\Snake and Ladder.deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\bin\Debug\net8.0\Snake and Ladder.runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\bin\Debug\net8.0\Snake and Ladder.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\bin\Debug\net8.0\Snake and Ladder.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\obj\Debug\net8.0\Snake and Ladder.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\obj\Debug\net8.0\Snake and Ladder.AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\obj\Debug\net8.0\Snake and Ladder.AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\obj\Debug\net8.0\Snake and Ladder.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\obj\Debug\net8.0\Snake and Ladder.sourcelink.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\obj\Debug\net8.0\Snake and Ladder.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\obj\Debug\net8.0\refint\Snake and Ladder.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\obj\Debug\net8.0\Snake and Ladder.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\obj\Debug\net8.0\Snake and Ladder.genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Snake and Ladder\Snake and Ladder\obj\Debug\net8.0\ref\Snake and Ladder.dll

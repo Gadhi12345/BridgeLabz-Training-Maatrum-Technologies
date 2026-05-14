@@ -1,0 +1,15 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\bin\Debug\net8.0\BOSS_Problem_3.exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\bin\Debug\net8.0\BOSS_Problem_3.deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\bin\Debug\net8.0\BOSS_Problem_3.runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\bin\Debug\net8.0\BOSS_Problem_3.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\bin\Debug\net8.0\BOSS_Problem_3.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\obj\Debug\net8.0\BOSS_Problem_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\obj\Debug\net8.0\BOSS_Problem_3.AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\obj\Debug\net8.0\BOSS_Problem_3.AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\obj\Debug\net8.0\BOSS_Problem_3.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\obj\Debug\net8.0\BOSS_Problem_3.sourcelink.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\obj\Debug\net8.0\BOSS_Problem_3.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\obj\Debug\net8.0\refint\BOSS_Problem_3.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\obj\Debug\net8.0\BOSS_Problem_3.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\obj\Debug\net8.0\BOSS_Problem_3.genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\BOSS_Problem_3\BOSS_Problem_3\obj\Debug\net8.0\ref\BOSS_Problem_3.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\BOSS_Problem_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E652CADD-5C85-28BE-BDB0-136921C7CAE1}|BOSS_Problem_3\\BOSS_Problem_3.csproj|d:\\bridgelabz_maatrum_technology\\boss_problem_3\\boss_problem_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E652CADD-5C85-28BE-BDB0-136921C7CAE1}|BOSS_Problem_3\\BOSS_Problem_3.csproj|solutionrelative:boss_problem_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\BOSS_Problem_3\\BOSS_Problem_3\\Program.cs",
+              "RelativeDocumentMoniker": "BOSS_Problem_3\\Program.cs",
+              "ToolTip": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\BOSS_Problem_3\\BOSS_Problem_3\\Program.cs",
+              "RelativeToolTip": "BOSS_Problem_3\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:46:20.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
