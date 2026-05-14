@@ -1,0 +1,15 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\bin\Debug\net8.0\Review-6.exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\bin\Debug\net8.0\Review-6.deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\bin\Debug\net8.0\Review-6.runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\bin\Debug\net8.0\Review-6.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\bin\Debug\net8.0\Review-6.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\obj\Debug\net8.0\Review-6.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\obj\Debug\net8.0\Review-6.AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\obj\Debug\net8.0\Review-6.AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\obj\Debug\net8.0\Review-6.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\obj\Debug\net8.0\Review-6.sourcelink.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\obj\Debug\net8.0\Review-6.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\obj\Debug\net8.0\refint\Review-6.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\obj\Debug\net8.0\Review-6.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\obj\Debug\net8.0\Review-6.genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Review-6\obj\Debug\net8.0\ref\Review-6.dll

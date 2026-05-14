@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\Review-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{305F5B13-5834-41BE-88F0-8AD529CF9832}|Review-6.csproj|d:\\bridgelabz_maatrum_technology\\review-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305F5B13-5834-41BE-88F0-8AD529CF9832}|Review-6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\Review-6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\Review-6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:59:24.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
