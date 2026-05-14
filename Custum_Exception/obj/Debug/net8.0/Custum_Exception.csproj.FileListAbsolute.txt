@@ -1,0 +1,15 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\bin\Debug\net8.0\Custum_Exception.exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\bin\Debug\net8.0\Custum_Exception.deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\bin\Debug\net8.0\Custum_Exception.runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\bin\Debug\net8.0\Custum_Exception.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\bin\Debug\net8.0\Custum_Exception.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\obj\Debug\net8.0\Custum_Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\obj\Debug\net8.0\Custum_Exception.AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\obj\Debug\net8.0\Custum_Exception.AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\obj\Debug\net8.0\Custum_Exception.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\obj\Debug\net8.0\Custum_Exception.sourcelink.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\obj\Debug\net8.0\Custum_Exception.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\obj\Debug\net8.0\refint\Custum_Exception.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\obj\Debug\net8.0\Custum_Exception.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\obj\Debug\net8.0\Custum_Exception.genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\Custum_Exception\obj\Debug\net8.0\ref\Custum_Exception.dll

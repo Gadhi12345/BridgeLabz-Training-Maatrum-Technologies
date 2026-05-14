@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\Exception-Use Case_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B35DAF6B-E9BD-44C4-8E88-A77ADD12B60D}|Exception-Use Case_Practice.csproj|d:\\bridgelabz_maatrum_technology\\exception-use case_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35DAF6B-E9BD-44C4-8E88-A77ADD12B60D}|Exception-Use Case_Practice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\Exception-Use Case_Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BRIDGELABZ_MAATRUM_TECHNOLOGY\\Exception-Use Case_Practice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T06:16:43.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
