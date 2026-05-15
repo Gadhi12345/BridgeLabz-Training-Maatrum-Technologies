@@ -10,12 +10,10 @@ class Program {
            new Student(){ID=2,Name="Anwar",Gender="Male"},
            new Student(){ID=3,Name="Kavya",Gender="Female"},
        };
-        IEnumerable<Student> stu = from s in studentlist
-                                   where s.Gender == "Female"
-                                   select s;
-        foreach(var x in stu)
+        IQueryable<Student> methodSyntax = studentlist.AsQueryable().Where(std => std.Gender == "Male");
+        foreach(var s in methodSyntax)
         {
-            Console.WriteLine(x.Name);
+            Console.WriteLine(s.Name);
         }
     }
 }
