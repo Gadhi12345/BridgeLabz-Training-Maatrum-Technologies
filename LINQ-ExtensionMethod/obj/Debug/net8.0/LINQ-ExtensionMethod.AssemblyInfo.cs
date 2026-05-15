@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ-ExtensionMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b282eed16a943a4128a0f8bcf41975f00e3f3f66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3169fb79116af15aac82111978fd2d6f2d7ffaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ-ExtensionMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ-ExtensionMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
