@@ -4,21 +4,25 @@ using System.Linq;
 class Program { 
     public static void Main(string[] args)
     {
-        //Query Syntax
-        List<int> intList = new List<int>()
+       List<Student> studentlist = new List<Student>()
+       {
+           new Student(){ID=1,Name="Adarsh",Gender="Male"},
+           new Student(){ID=2,Name="Anwar",Gender="Male"},
+           new Student(){ID=3,Name="Kavya",Gender="Female"},
+       };
+        IEnumerable<Student> stu = from s in studentlist
+                                   where s.Gender == "Female"
+                                   select s;
+        foreach(var x in stu)
         {
-            1,2,3,4,4,5,6,6,7,7,8,8,9
-        };
-
-        var QuerySyntax = from obj in intList
-                          where obj > 5
-                          select obj;
-
-        //Method Syntax
-        // var MethodSystax=intList.where(x=>x>5).toList();
-        foreach (var t in QuerySyntax)
-        {
-            Console.WriteLine(t);
+            Console.WriteLine(x.Name);
         }
     }
+}
+
+class Student
+{
+    public int ID { get; set; }
+    public string Name { get; set; }
+    public string Gender { get; set; }
 }
