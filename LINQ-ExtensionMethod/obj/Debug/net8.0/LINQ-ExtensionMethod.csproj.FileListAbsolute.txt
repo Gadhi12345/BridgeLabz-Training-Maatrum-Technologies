@@ -1,0 +1,15 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\bin\Debug\net8.0\LINQ-ExtensionMethod.exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\bin\Debug\net8.0\LINQ-ExtensionMethod.deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\bin\Debug\net8.0\LINQ-ExtensionMethod.runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\bin\Debug\net8.0\LINQ-ExtensionMethod.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\bin\Debug\net8.0\LINQ-ExtensionMethod.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\obj\Debug\net8.0\LINQ-ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\obj\Debug\net8.0\LINQ-ExtensionMethod.AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\obj\Debug\net8.0\LINQ-ExtensionMethod.AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\obj\Debug\net8.0\LINQ-ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\obj\Debug\net8.0\LINQ-ExtensionMethod.sourcelink.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\obj\Debug\net8.0\LINQ-ExtensionMethod.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\obj\Debug\net8.0\refint\LINQ-ExtensionMethod.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\obj\Debug\net8.0\LINQ-ExtensionMethod.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\obj\Debug\net8.0\LINQ-ExtensionMethod.genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-ExtensionMethod\obj\Debug\net8.0\ref\LINQ-ExtensionMethod.dll
