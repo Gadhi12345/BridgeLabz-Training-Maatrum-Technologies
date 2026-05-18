@@ -1,0 +1,15 @@
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\bin\Debug\net8.0\LINQ-SelectMany.exe
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\bin\Debug\net8.0\LINQ-SelectMany.deps.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\bin\Debug\net8.0\LINQ-SelectMany.runtimeconfig.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\bin\Debug\net8.0\LINQ-SelectMany.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\bin\Debug\net8.0\LINQ-SelectMany.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\obj\Debug\net8.0\LINQ-SelectMany.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\obj\Debug\net8.0\LINQ-SelectMany.AssemblyInfoInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\obj\Debug\net8.0\LINQ-SelectMany.AssemblyInfo.cs
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\obj\Debug\net8.0\LINQ-SelectMany.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\obj\Debug\net8.0\LINQ-SelectMany.sourcelink.json
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\obj\Debug\net8.0\LINQ-SelectMany.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\obj\Debug\net8.0\refint\LINQ-SelectMany.dll
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\obj\Debug\net8.0\LINQ-SelectMany.pdb
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\obj\Debug\net8.0\LINQ-SelectMany.genruntimeconfig.cache
+D:\BRIDGELABZ_MAATRUM_TECHNOLOGY\LINQ-SelectMany\obj\Debug\net8.0\ref\LINQ-SelectMany.dll
