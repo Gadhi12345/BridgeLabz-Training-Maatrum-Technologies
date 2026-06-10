@@ -745,3 +745,195 @@ This README contains my daily status updates during the BridgeLabz training peri
 ### Issues Faced:
 
 * None
+
+---
+
+## 13th May, 2026
+
+### What I Have Done:
+
+- Revised Reflection concepts in C#
+- Revised Annotations / Data Annotations
+- Revised SOLID Design Principles
+- Revised Design Patterns
+- Completed Review 6
+
+### What I Will Do Next:
+
+- Start LINQ
+- Update all codes in GitHub
+
+### Issues Faced:
+
+- None
+
+---
+
+## 14th May, 2026
+
+### What I Have Done:
+
+- Learned Architecture of LINQ
+- Learned Different Ways to Write LINQ Queries in C#
+- Practiced LINQ Query Syntax and Method Syntax programs
+- Pushed all practiced LINQ codes to GitHub
+
+### What I Will Do Next:
+
+- Learn IEnumerable and IQueryable in C#
+- Learn Differences between IEnumerable and IQueryable
+- Learn LINQ Extension Methods
+- Learn LINQ Operators
+- Learn LINQ Select Operator in C#
+
+### Issues Faced:
+
+- None
+
+---
+
+## 15th May, 2026
+
+### What I Have Done:
+
+- Completed IEnumerable and IQueryable in C#
+- Completed Differences between IEnumerable and IQueryable
+- Completed LINQ Extension Methods in C#
+
+### What I Will Do Next:
+
+- Complete LINQ Operators
+- Complete LINQ Select Operator in C#
+- Complete LINQ SelectMany Method in C#
+- Complete LINQ Where Method in C#
+- Complete OfType Operator in LINQ
+- Complete Set Operators in LINQ
+
+### Issues Faced:
+
+- None
+
+---
+
+## 16th May, 2026
+
+### What I Have Done:
+
+- Completed LINQ Operators concepts
+- Completed LINQ Select Operator in C#
+- Completed LINQ SelectMany Method in C#
+- Completed LINQ Where Method in C#
+- Completed OfType Operator in LINQ
+- Completed Set Operators in LINQ
+- Completed LINQ Distinct Method in C#
+
+### What I Will Do Next:
+
+- LINQ Except Method in C#
+- LINQ Intersect Method in C#
+- LINQ Union Method in C#
+- LINQ Concat Method in C#
+- Ordering Operators in LINQ
+- LINQ OrderBy Method in C#
+- LINQ OrderByDescending Method in C#
+- LINQ ThenBy and ThenByDescending Method in C#
+- LINQ Reverse Method in C#
+- LINQ Aggregate Operators in C#
+
+### Issues Faced:
+
+- None
+
+---
+
+## 18th May, 2026
+
+### What I Have Done:
+
+- Completed SQL Fundamentals concepts
+- Completed:
+  - What is a Database
+  - What is DBMS
+  - What is RDBMS
+  - SQL vs MSSQL
+  - MSSQL Installation
+  - Query for Databases
+  - Overview of System Databases
+  - Creating Database
+  - Use Database
+  - Drop Database
+  - CRUD Operations
+  - What is a Table
+  - Creating Table
+  - Insert Data
+  - Reading Data
+  - Update Data
+  - Delete Data
+  - Truncate
+- Completed Exercise on CRUD Operations
+
+### What I Will Do Next:
+
+- What are Datatypes
+- What are Constraints
+- Primary Key
+- Unique Key
+- NOT NULL & DEFAULT Constraint
+- Creating EMPLOYEE Table Task
+- SQL Clauses
+- WHERE Clause
+- DISTINCT
+- ORDER BY
+- LIKE & TOP
+- Logical Operators
+- IN, NOT IN, BETWEEN
+- CASE
+
+### Issues Faced:
+
+- None
+
+---
+
+## 19th May, 2026
+
+### What I Have Done:
+
+- Completed SQL concepts
+- Completed:
+  - Datatypes
+  - Constraints
+  - Primary Key
+  - Unique Key
+  - NOT NULL & DEFAULT Constraint
+  - Creating EMPLOYEE Table Task
+  - SQL Clauses
+  - WHERE Clause
+  - DISTINCT
+  - ORDER BY
+  - LIKE & TOP
+  - Logical Operators
+  - IN, NOT IN, BETWEEN
+  - CASE
+
+### What I Will Do Next:
+
+- Aggregate Function
+- GROUP BY
+- Multi-Column Grouping
+- HAVING Clause
+- GROUP BY ROLLUP
+- Sub Query and its Types
+- Correlated Sub Query
+- Inline View Sub Query
+- String Functions
+- Exercise on String Functions
+- Date Functions
+- ALTER Query
+- ADD/DROP Constraint
+
+### Issues Faced:
+
+- None
+
+---
