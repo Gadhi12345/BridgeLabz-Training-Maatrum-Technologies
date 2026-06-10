@@ -1461,3 +1461,44 @@ This README contains my daily status updates during the BridgeLabz training peri
 - None
 
 ---
+
+## 10th June, 2026
+
+### What I Have Done:
+
+- Completed the remaining Redis concepts along with practical implementations.
+- Learned and explored:
+  - Redis Persistence
+  - RDB Snapshots
+  - AOF (Append Only File)
+  - Redis Expiry and TTL
+  - Redis Pub/Sub
+  - Redis Transactions
+  - Redis Sentinel
+- Completed Docker concepts and fundamentals.
+- Installed and configured Docker on the local machine.
+- Pulled and deployed Redis using Docker containers.
+- Successfully integrated Redis into the Fundo Notes application.
+- Performed Redis operations and validated connectivity through Docker.
+- Reinforced Redis and Docker knowledge through practical exercises and revision.
+
+### What I Will Do Next:
+
+- Begin learning RabbitMQ concepts and architecture.
+- Study:
+  - RabbitMQ Architecture
+  - Exchanges
+  - Queues
+  - Producers
+  - Consumers
+  - Routing Keys
+  - Message Flow
+- Integrate RabbitMQ into the Fundo Notes project.
+- Implement asynchronous messaging using RabbitMQ.
+- Practice message publishing and consuming workflows.
+
+### Issues Faced:
+
+- None
+
+---
