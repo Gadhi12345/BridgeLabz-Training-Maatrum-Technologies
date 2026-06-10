@@ -937,3 +937,527 @@ This README contains my daily status updates during the BridgeLabz training peri
 - None
 
 ---
+
+## 20th May, 2026
+
+### What I Have Done:
+
+- Completed advanced SQL concepts
+- Completed:
+  - GROUP BY
+  - Multi-Column Grouping
+  - HAVING Clause
+  - GROUP BY ROLLUP
+  - Sub Query and its Types
+  - Correlated Sub Query
+  - Inline View Sub Query
+  - String Functions
+  - Exercise on String Functions
+  - Date Functions
+  - ALTER Query
+  - ADD/DROP Constraint
+  - CHECK Constraint
+  - What is Relationship
+  - Foreign Key
+  - Types of Relationship
+  - One to Many Relationship
+  - Cascade on Delete
+  - JOINS
+  - CROSS JOIN
+  - INNER JOIN
+  - LEFT & RIGHT JOIN
+  - FULL OUTER JOIN
+  - OUTER & CROSS APPLY
+  - UNION & EXCEPT
+  - SELF JOIN
+
+### What I Will Do Next:
+
+- Practical - Many to Many
+- TASK - ESTORE DB
+- What is VIEWS
+- Window Functions
+- ROW_NUMBER, RANK & DENSE_RANK
+- LAG & LEAD
+- Window Functions - ROWS BETWEEN
+- FIRST_VALUE, LAST_VALUE and NTILE
+- Benefits of Window Functions
+- CTE
+- Stored Routine
+- Stored Procedure (SP)
+- SP with INPUT Parameters
+- List and ALTER SP
+- UPDATE/INSERT with SP
+- SP with OUTPUT Parameters
+
+### Issues Faced:
+
+- None
+
+---
+
+## 21st May, 2026
+
+### What I Have Done:
+
+- Completed advanced SQL Server concepts
+- Completed:
+  - Practical - Many to Many
+  - TASK - ESTORE DB
+  - What is VIEWS
+  - Window Functions
+  - ROW_NUMBER, RANK & DENSE_RANK
+  - LAG & LEAD
+  - Window Functions - ROWS BETWEEN
+  - FIRST_VALUE, LAST_VALUE and NTILE
+  - Benefits of Window Functions
+  - CTE
+  - Stored Routine
+  - Stored Procedure (SP)
+  - SP with INPUT Parameters
+  - List and ALTER SP
+  - UPDATE/INSERT with SP
+  - SP with OUTPUT Parameters
+  - Procedural Logic in SP
+  - User Defined Functions (Scalar)
+  - ITVF Function
+  - UDF Usecases
+  - Generate Random Data
+  - Indexes
+  - Triggers
+  - Normalization
+  - Import & Export Databases
+  - Import Data from CSV
+
+### What I Will Do Next:
+
+- Revise all LINQ topics
+- Revise all DBMS and SQL concepts
+- Practice SQL queries and Stored Procedures
+- Practice LINQ programs and query writing
+
+### Issues Faced:
+
+- None
+
+---
+
+## 22nd May, 2026
+
+### What I Have Done:
+
+- Completed all DBMS and SQL topics
+- Revised all DBMS concepts
+- Practiced SQL implementations and query writing
+- Completed LINQ concepts
+- Revised LINQ topics and implementations
+- Practiced:
+  - LINQ Operators
+  - LINQ Query Writing
+  - SQL Queries
+  - Stored Procedures
+  - Joins
+  - Subqueries
+  - Window Functions
+  - Constraints and Relationships
+
+### What I Will Do Next:
+
+- Implement all practiced concepts again
+- Revise complete LINQ concepts
+- Practice more SQL and LINQ programs
+- Strengthen query-writing logic and problem-solving
+
+### Issues Faced:
+
+- None
+
+---
+
+## 23rd May, 2026
+
+### What I Have Done:
+
+- Revised all LINQ topics completely
+- Revised all DBMS and SQL concepts completely
+- Practiced LINQ query writing and implementations
+- Practiced SQL queries and database concepts
+- Successfully completed Review 7
+
+### What I Will Do Next:
+
+- Start ADO.NET concepts
+- Practice CRUD Operations using ADO.NET
+
+### Issues Faced:
+
+- None
+
+---
+
+## 25th May, 2026
+
+### What I Have Done:
+
+- Started ADO.NET concepts
+- Studied ADO.NET theory concepts
+- Revised database connectivity basics
+- Understood ADO.NET architecture and components
+
+### What I Will Do Next:
+
+- Perform CRUD Operations using ADO.NET
+- Practice database connection and query execution programs
+- Implement Insert, Update, Delete and Select operations
+- Strengthen hands-on ADO.NET coding practice
+
+### Issues Faced:
+
+- None
+
+---
+
+## 26th May, 2026
+
+### What I Have Done:
+
+- Connected Visual Studio with SQL Server using Server Explorer
+- Practiced ADO.NET database connection setup
+- Studied and implemented:
+  - SqlCommand
+  - SqlDataReader
+  - SqlDataAdapter
+  - DataTable
+  - ADO.NET Data Methods
+- Improved understanding of database communication using ADO.NET
+- Practiced executing SQL queries from C# applications
+
+### What I Will Do Next:
+
+- Learn Stored Procedures in ADO.NET
+- Implement DataSet using Stored Procedures
+- Study DataView in ADO.NET
+- Understand Connected and Disconnected Architecture
+- Practice Transactions in ADO.NET
+- Perform more CRUD operation implementations
+
+### Issues Faced:
+
+- None
+
+---
+
+## 27th May, 2026
+
+### What I Have Done:
+
+- Practiced and implemented ADO.NET concepts
+- Worked on:
+  - SqlDataAdapter
+  - DataTable
+  - ADO.NET Data Handling Methods
+  - DataSet using Stored Procedures
+  - DataView in ADO.NET
+  - Connected and Disconnected Architecture
+- Strengthened understanding of ADO.NET implementations
+- Revised database interaction concepts with practical coding
+
+### What I Will Do Next:
+
+- Begin ASP.NET practical implementation
+- Study core ASP.NET concepts
+- Practice ASP.NET application setup and development
+- Work on implementation-based ASP.NET programs
+
+### Issues Faced:
+
+- None
+
+---
+
+## 29th May, 2026
+
+### What I Have Done:
+
+- Finished learning ADO.NET and reviewed all concepts in preparation for assessment
+- Began studying Entity Framework Core (EF Core)
+- Practiced and implemented:
+  - DbContext
+  - DbSet
+  - Migrations
+- Learned:
+  - Code-First Approach
+  - Database-First Approach
+- Explored EF Core features, benefits and required NuGet packages
+- Learned Layered Architecture and responsibilities of each layer
+
+### What I Will Do Next:
+
+- Learn and implement Dependency Injection (DI)
+- Continue exploring EF Core concepts in:
+  - Business Layer
+  - Data Access Layer
+  - Model Layer
+  - Presentation Layer
+- Study project structure, file organization and application workflow within Layered Architecture
+- Begin learning and practicing ASP.NET development
+
+### Issues Faced:
+
+- None
+
+---
+
+## 30th May, 2026
+
+### What I Have Done:
+
+- Revised and strengthened ADO.NET concepts
+- Revised Entity Framework Core topics and implementations
+- Prepared for Review 8
+- Successfully completed Review 8
+
+### What I Will Do Next:
+
+- Learn and implement Dependency Injection (DI)
+- Continue exploring EF Core concepts in:
+  - Business Layer
+  - Data Access Layer
+  - Model Layer
+  - Presentation Layer
+- Gain deeper understanding of folder structure, file organization and application flow in Layered Architecture
+- Begin studying and implementing ASP.NET concepts
+
+### Issues Faced:
+
+- None
+
+---
+
+## 01st June, 2026
+
+### What I Have Done:
+
+- Learned Dependency Injection (DI) concepts
+- Continued studying Entity Framework Core concepts and implementation across:
+  - Business Layer
+  - Data Access Layer
+  - Model Layer
+  - Presentation Layer
+- Gained understanding of Layered Architecture including folder structure and workflow
+- Started learning ASP.NET concepts and implementation
+
+### What I Will Do Next:
+
+- Begin developing an ASP.NET Web API application
+- Study:
+  - APIs and Web APIs
+  - RESTful API Principles
+  - Swagger Documentation
+- Start implementation of Employee Payroll project using ASP.NET Web API
+
+### Issues Faced:
+
+- None
+
+---
+
+## 02nd June, 2026
+
+### What I Have Done:
+
+- Initiated the Fundo Notes application development
+- Created and organized the GitHub repository for source code management
+- Established the 3-Tier Architecture for the project
+- Added all essential project folders, files and initial configurations
+- Installed and configured the required NuGet packages
+- Developed the complete User Registration API workflow
+- Integrated SMTP services for sending emails
+- Learned BCrypt password encryption concepts
+- Studied:
+  - Salt Generation
+  - Work Factor (Cost Factor)
+  - Secure Password Storage Practices
+
+### What I Will Do Next:
+
+- Continue exploring SMTP features and implementation details
+- Study JWT (JSON Web Token) Authentication
+- Develop and integrate the User Login API
+- Validate and test API endpoints using Swagger
+- Continue development of the Fundo Notes project
+
+### Issues Faced:
+
+- None
+
+---
+
+## 03rd June, 2026
+
+### What I Have Done:
+
+- Completed User Login API implementation in Fundo Notes
+- Learned and understood:
+  - JWT (JSON Web Token)
+  - Authentication
+  - Authorization
+- Explored Google Password Manager and secure password generation
+- Studied SMTP concepts:
+  - SMTP Architecture and Workflow
+  - SMTP Client Configuration
+  - SSL (Secure Sockets Layer)
+  - MailMessage Class
+  - SendMailAsync Method
+  - Async and Await Programming
+  - HTML Email Templates
+- Integrated SMTP email services
+- Configured automatic registration email notifications
+- Tested and validated all implementations successfully
+
+### What I Will Do Next:
+
+- Revise JWT, SMTP, Authentication and Authorization concepts
+- Implement JWT token creation and validation
+- Improve and test Login API
+- Validate API endpoints using Swagger
+- Continue Fundo Notes development
+
+### Issues Faced:
+
+- None
+
+---
+
+## 04th June, 2026
+
+### What I Have Done:
+
+- Integrated JWT-based security mechanisms
+- Configured token-based authentication
+- Validated secured API access through Swagger
+- Gained deeper understanding of:
+  - Authentication and Authorization Flow
+  - JWT Header
+  - JWT Payload
+  - JWT Signature
+  - Claims-Based Authentication
+  - Bearer Token Usage
+- Designed Notes module database structure
+- Set up foundational Note module implementation
+- Managed source code using Git branching strategy
+- Updated project documentation and README
+- Created dedicated Notes development branch
+
+### What I Will Do Next:
+
+- Complete remaining CRUD operations for Notes module
+- Implement secured Note APIs using JWT Authorization
+- Perform end-to-end API testing
+- Revise JWT and Notes module concepts
+- Push latest code updates to GitHub
+
+### Issues Faced:
+
+- None
+
+---
+
+## 05th June, 2026
+
+### What I Have Done:
+
+- Developed and tested the following Note APIs:
+  - GET /api/Note/GetAll
+  - GET /api/Note/GetID/{noteId}
+  - PUT /api/Note/Update/{noteId}
+- Verified API responses using Swagger
+- Integrated Note management operations with project architecture
+- Secured implemented endpoints using authentication mechanisms
+
+### What I Will Do Next:
+
+- Develop remaining Note APIs
+- Design and implement Label module
+- Create Label database table
+- Establish Note-Label relationship
+- Begin learning Redis concepts
+- Explore Redis integration in Fundo Notes
+- Perform additional Notes module testing
+
+### Issues Faced:
+
+- None
+
+---
+
+## 08th June, 2026
+
+### What I Have Done:
+
+- Successfully designed and implemented the Label module in the Fundo Notes project
+- Created Label and NoteLabel entities to establish a Many-to-Many relationship between Notes and Labels
+- Configured Entity Framework Core relationships and database mappings using Fluent API
+- Created and applied database migrations for Labels and NoteLabels tables
+- Implemented the following Label APIs:
+  - Create Label
+  - Update Label
+  - Delete Label
+  - Add Label To Note
+  - Remove Label From Note
+- Successfully tested all Label APIs using Swagger
+
+### What I Will Do Next:
+
+- Complete Review 9
+- Begin learning Redis concepts and caching mechanisms
+- Explore Redis integration within the Fundo Notes project
+
+### Issues Faced:
+
+- None
+
+---
+
+## 09th June, 2026
+
+### What I Have Done:
+
+- Completed Employee Payroll review questions and implementations
+- Attended and completed Review 9
+- Studied and understood Redis and Caching concepts in detail
+- Completed:
+  - Caching Basics
+  - Cache Hit and Cache Miss
+  - Cache Expiration
+  - Cache Eviction Policies
+  - IMemoryCache
+  - Distributed Cache
+  - Redis Fundamentals
+  - Redis Data Structures
+  - Redis Persistence
+  - Redis Replication
+  - Redis Sentinel
+
+### What I Will Do Next:
+
+- Study IDistributedCache in depth
+- Learn and implement:
+  - GetAsync()
+  - SetAsync()
+  - RefreshAsync()
+  - RemoveAsync()
+- Understand Serialization and Deserialization for Redis caching
+- Study Redis Connection String configuration
+- Learn Dependency Injection setup for Redis
+- Explore StackExchange.Redis package integration
+- Learn Docker basics and Redis container setup
+- Understand Redis default port (6379)
+- Practice Redis CLI commands
+- Explore Redis Insight for monitoring and management
+
+### Issues Faced:
+
+- None
+
+---
