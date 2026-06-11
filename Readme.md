@@ -113,22 +113,6 @@ This repository contains my hands-on learning and practice of Git & GitHub conce
 
 </details>
 
----
-
-## 🌳 Branching Workflow
-
-```text
-main
- │
- ├── dev
- │    │
- │    ├── feature/user
- │    ├── feature/notes
- │    ├── feature/redis
- │    └── feature/collaborators
- │
- └── production
-```
 
 ---
 
